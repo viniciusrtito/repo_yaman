@@ -1,0 +1,1 @@
+editando aquivo teste no Vim
